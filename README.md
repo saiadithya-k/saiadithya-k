@@ -162,7 +162,7 @@ CTF player | Network security · Forensics · Exploitation
 - 🔭 Deepening expertise in **multimodal AI** — fusing vision, audio, and motion into unified real-time systems
 - 🛡️ Active **CTF competitor** — network security, forensics, and exploitation challenges
 - 🧠 Exploring **LLMs + RAG** pipelines and production-grade Generative AI systems
-- 🎓 B.Tech CSE (AI & ML) @ VIT Chennai — CGPA: **8.66** | Batch of 2028
+- 🎓 B.Tech CSE (AI & ML) @ VIT Chennai — CGPA: **8.67** | Batch of 2028
 
 
 ---
